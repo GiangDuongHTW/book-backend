@@ -1,0 +1,19 @@
+GET localhost:8080/categories
+Content-Type: application/json
+
+{
+ "name": "testName",
+"description": "testDescription"
+}
+
+<> 2023-10-10T160848.201.json
+<> 2023-10-09T183221.500.json
+<> 2023-10-09T182814.500.json
+<> 2023-10-09T182606.500.json
+<> 2023-10-09T182427.500.json
+<> 2023-10-09T182423.400.html
+<> 2023-10-09T182402.415.json
+<> 2023-10-09T180552.400.html
+<> 2023-10-09T180539.400.html
+<> 2023-10-09T180455.400.html
+<> 2023-10-09T180306.400.html
